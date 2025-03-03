@@ -19,7 +19,6 @@ public class Test {
 		while(true)
 		{
 			
-			
 			System.out.println("-------------MENU------------- \n\n1.Create Student\n2.Retrieve Student\n3.Update Student\n4.Delete Student");
 			
 			System.out.println("Enter a number according to your task : - ");
